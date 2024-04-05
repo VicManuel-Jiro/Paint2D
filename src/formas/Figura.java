@@ -5,7 +5,7 @@ import java.awt.Color;
 import java.awt.Shape;
 import java.awt.geom.GeneralPath;
 import java.io.Serializable;
-
+ 
 
 //Creación de objetos serializables
 public class Figura implements Serializable{
